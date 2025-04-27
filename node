@@ -2,7 +2,7 @@
 
 
 
-git clone https://github.com/AlphaCodeX2/skyportd-node
+git clone https://github.com/achul123/skyportd.git
 cd skyportd 
 npm install
 
